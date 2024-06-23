@@ -107,3 +107,11 @@ C:\Users\cleve\Documents\ChristieCars\src\AuctionService\bin\Debug\net8.0\Rabbit
 C:\Users\cleve\Documents\ChristieCars\src\AuctionService\bin\Debug\net8.0\Contracts.dll
 C:\Users\cleve\Documents\ChristieCars\src\AuctionService\bin\Debug\net8.0\Contracts.pdb
 C:\Users\cleve\Documents\ChristieCars\src\AuctionService\bin\Debug\net8.0\MassTransit.EntityFrameworkCoreIntegration.dll
+C:\Users\cleve\Documents\ChristieCars\src\AuctionService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\cleve\Documents\ChristieCars\src\AuctionService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cleve\Documents\ChristieCars\src\AuctionService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cleve\Documents\ChristieCars\src\AuctionService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cleve\Documents\ChristieCars\src\AuctionService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cleve\Documents\ChristieCars\src\AuctionService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cleve\Documents\ChristieCars\src\AuctionService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cleve\Documents\ChristieCars\src\AuctionService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
